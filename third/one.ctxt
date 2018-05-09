@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=one
+comment0.text=\n\ Write\ a\ description\ of\ one\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=str
+comment1.target=int\ countCtg(java.lang.String)
+comment2.params=DNA
+comment2.target=double\ calCG(java.lang.String)
+comment3.params=str\ start\ stopStr
+comment3.target=int\ findStopCodon(java.lang.String,\ int,\ java.lang.String)
+comment4.params=str
+comment4.target=void\ multipleGene(java.lang.String)
+comment5.params=
+comment5.target=int\ maxDna()
+comment6.params=dna
+comment6.target=java.lang.String\ mystery(java.lang.String)
+comment7.params=
+comment7.target=void\ testFun()
+numComments=8
